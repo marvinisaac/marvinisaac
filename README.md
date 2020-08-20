@@ -9,18 +9,22 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="marvinisaac.com" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="marvinisaac | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Code with Kuya Marvin | Facebook" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][tutorial]
+[<img align="left" alt="marvinisaac.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="marvinisaac | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Code with Kuya Marvin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][tutorial]
 <br/>
 
 ### Tools:
 
-<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg" />
-<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />
-<img align="left" alt="Ubuntu" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/ubuntu.svg" />
-<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" />
+<img align="left"
+    alt="Git"
+    title="Git"
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />
+<img align="left" alt="Ubuntu" title="Ubuntu" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/ubuntu.svg" />
+<img align="left" alt="Docker" title="Docker" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" />
 <br/>
 
 ### Frontend:
