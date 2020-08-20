@@ -1,11 +1,15 @@
 ## Hi, I'm Marvin! 👋
 
-- 👔 I'm working as PHP Developer
-- 📚 I'm teaching myself:
-    - 📌 VueJS
-    - 📌 Linux, and
-    - 📌 Docker, among other things
-- ⚡ Fun fact: I finished ["Para sa Broken Hearted"](https://www.goodreads.com/en/book/show/20762809-para-sa-broken-hearted) in just a few hours
+👔 I'm working as PHP Developer
+
+📚 I'm teaching myself:
+- 📌 VueJS
+- 📌 Linux, and
+- 📌 Docker, among other things
+
+🏆 My professional goal is to be a fullstack developer
+
+⚡ Fun fact: I finished ["Para sa Broken Hearted"](https://www.goodreads.com/en/book/show/20762809-para-sa-broken-hearted) in just a few hours
 
 ### Connect With Me:
 
@@ -31,16 +35,6 @@
     title="Visual Studio Code"
     width="32px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />
-<img align="left"
-    alt="Ubuntu"
-    title="Ubuntu"
-    width="32px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/ubuntu.svg" />
-<img align="left"
-    alt="Docker"
-    title="Docker"
-    width="32px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" />
 <br/>
 
 ### Frontend:
@@ -100,6 +94,23 @@
     width="32px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/directus.svg" />
 <br/>
+
+### Server: 
+<img align="left"
+    alt="Ubuntu"
+    title="Ubuntu"
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/ubuntu.svg" />
+<img align="left"
+    alt="Docker"
+    title="Docker"
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" />
+<img align="left"
+    alt="nginx"
+    title="nginx"
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/nginx.svg" />
 
 [linkedin]: https://www.linkedin.com/in/marvinisaac/
 [tutorial]: https://facebook.com/codewithkuyamarvin
