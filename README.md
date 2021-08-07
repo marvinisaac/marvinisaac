@@ -1,13 +1,13 @@
 ## Hi, I'm Marvin! 👋
 
-👔 I'm working as PHP Developer
+👔 I'm working as a Software Engineer in Lamudi
 
 📚 I'm teaching myself:
 - 📌 VueJS
 - 📌 Linux, and
 - 📌 Docker, among other things
 
-🏆 My professional goal is to be a fullstack developer
+🏆 My professional goal is to create an app that is used by Filipinos daily
 
 ⚡ Fun fact: I finished ["Para sa Broken Hearted"](https://www.goodreads.com/en/book/show/20762809-para-sa-broken-hearted) in just a few hours
 
@@ -15,7 +15,6 @@
 
 [<img align="left" alt="marvinisaac.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="marvinisaac | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Code with Kuya Marvin | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][tutorial]
 <br/>
 
 ### Tools:
@@ -69,6 +68,11 @@
     title="Vue.JS"
     width="32px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/vue-dot-js.svg" />
+<img align="left"
+    alt="React"
+    title="React"
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/react.svg" />
 <br/>
 
 ### Backend:
@@ -93,6 +97,11 @@
     title="Directus"
     width="32px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/directus.svg" />
+<img align="left"
+    alt="Symfony"
+    title="Symfony"
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/symfony.svg" />
 <br/>
 
 ### Server: 
