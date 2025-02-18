@@ -11,6 +11,10 @@
 
 ⚡ Random non-tech related fact: I can't sleep on a mattress thicker than one inch.
 
+### My Coding Stats Last Week
+[<img src="https://wakatime.com/share/@marvinisaac/56ab5b73-f828-4633-a389-cb59e4e35cfd.svg" />][wakatime]
+[<sup>From Wakatime</sup>]([wakatime])
+
 ### Connect With Me:
 | Website | LinkedIn |
 |:---:|:---:|
@@ -39,3 +43,4 @@
 [linkedin]: https://www.linkedin.com/in/marvinisaac/
 [tutorial]: https://facebook.com/codewithkuyamarvin
 [website]: https://marvinisaac.com
+[wakatime]: https://wakatime.com/@marvinisaac
