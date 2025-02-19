@@ -13,7 +13,7 @@
 
 ### My Coding Stats Last Week
 [<img src="https://wakatime.com/share/@marvinisaac/56ab5b73-f828-4633-a389-cb59e4e35cfd.svg" />][wakatime]
-[<sup>From Wakatime</sup>]([wakatime])
+[<sup>From Wakatime</sup>](https://wakatime.com/@marvinisaac)
 
 ### Connect With Me:
 | Website | LinkedIn |
