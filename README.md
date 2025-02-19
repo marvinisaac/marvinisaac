@@ -13,7 +13,7 @@
 
 ### My Coding Stats Last Week
 [<img src="https://wakatime.com/share/@marvinisaac/56ab5b73-f828-4633-a389-cb59e4e35cfd.svg" />][wakatime]
-[<sup>From Wakatime</sup>](https://wakatime.com/@marvinisaac)
+[<sup>From Wakatime</sup>](http://marvin.ph/dev/stats)
 
 ### Connect With Me:
 | Website | LinkedIn |
@@ -40,7 +40,7 @@
 |:---:|:---:|:---:|:---:|
 | <img align="center" alt="Ubuntu" title="Ubuntu" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/amazonwebservices.svg" /> | <img align="center" alt="Docker" title="Docker" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" /> | <img align="center" alt="nginx" title="nginx" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/nginx.svg" /> | <img align="center" alt="Ubuntu" title="Ubuntu" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/ubuntu.svg" /> |
 
-[linkedin]: https://www.linkedin.com/in/marvinisaac/
+[linkedin]: https://marvin.ph/linkedin
 [tutorial]: https://facebook.com/codewithkuyamarvin
-[website]: https://marvinisaac.com
-[wakatime]: https://wakatime.com/@marvinisaac
+[website]: https://marvin.ph
+[wakatime]: http://marvin.ph/dev/stats
